@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Ashitha P Sujith
 
-🎓 MSc Computer Science | 💼 Odoo (ERP) Enthusiast | 🤖 AI/ML Learner | 
+🎓 MSc Computer Science | Python AI/ML Learner | 
 
-I build small-but-useful projects in Odoo, Python, and Machine Learning, and I’m steadily growing my portfolio with clean, well-documented repos.
+I build small-but-useful projects in Python, and Machine Learning, and I’m steadily growing my portfolio with clean, well-documented repos.
 
 ---
 
 ## 🔧 Tech & Tools
 - **Languages:** Python, SQL,C,Java
-- **Frameworks/Platforms:** Odoo, Flask (basics)
+- **Frameworks/Platforms:**  Flask (basics)
 - **Data/ML:** NumPy, Pandas, Scikit-learn, OpenCV (basics)
 - **DB:** PostgreSQL
 - **Workflow:** Git, GitHub, Jupyter, VS Code
@@ -19,8 +19,6 @@ I build small-but-useful projects in Odoo, Python, and Machine Learning, and I�
 - **DATASCIENCE** – Starter notebooks for Python DS basics  
   👉 https://github.com/AshithaSujith/DATASCIENCE
 
-- **Odoo Custom Module – (coming soon)**  
-  Small ERP module to demonstrate models, views, menus, and security.
 
 - **Alzheimer’s Detection Demo – (coming soon)**  
   Vision Transformers + Grad-CAM explanation notebook.
@@ -39,7 +37,6 @@ I build small-but-useful projects in Odoo, Python, and Machine Learning, and I�
 ---
 
 ## 🌱 Learning Now
-- Odoo module development (models, views, security, qweb)
 - Practical ML + Explainable AI
 - Writing clean READMEs & project structure
 
