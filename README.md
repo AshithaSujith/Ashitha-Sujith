@@ -49,5 +49,4 @@ I'm a Computer Science postgraduate passionate about building things at the inte
 
 *Currently open to entry-level opportunities in Software Engineering, AI/ML, and Full-Stack Development.*
 
-## 🤝 Connect
-- Email: ashithasujith8@gmail.com
+
