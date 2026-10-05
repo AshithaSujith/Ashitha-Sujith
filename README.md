@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ashitha P. Sujith
+# Hi there 👋 I'm Ashitha .P. Sujith
 
 💻 AI/ML Trainee | MSc Computer Science Graduate | Kozhikode, Kerala
 
